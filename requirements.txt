@@ -1,0 +1,7 @@
+
+pandas
+matplotlib
+seaborn
+wordcloud
+pillow==9.5.0
+jupyter
